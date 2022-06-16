@@ -1,0 +1,16 @@
+section{
+    text-align: center;
+    height: 80vh;
+    background-color: #fff;
+}
+section h1{
+    font-size: 4rem;
+    font-weight: bold;
+    margin-top:12%;
+    color:#24056d ;
+
+}
+section p{
+    margin : 0px 30% 0px 30%;
+    max-width:60%;
+}

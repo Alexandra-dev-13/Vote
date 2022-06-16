@@ -1,0 +1,79 @@
+#bg {
+    background: #000428;
+    background: -webkit-linear-gradient(to top, #004e92, #000428);
+    background: linear-gradient(to top, #004e92, #000428);
+    height: 100vh;
+}
+
+.title {
+    font-size: 1.9em;
+    font-weight: bold;
+}
+
+.header {
+    border: none;
+    border-bottom: 0.001px solid;
+    border-bottom-color: grey;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header h2 {
+    padding: 15px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.header ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.header ul li {
+    margin: 10px 20px 0px 0px;
+    border: 2px solid #eee;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* .header ul li:nth-child(2) {
+    background-color: #fff;
+} */
+
+.header ul li:nth-child(2) {
+    color: #333;
+}
+
+/* Section Texte */
+.slogan {
+    padding: 150px 0px 0px 100px;
+    font-weight: bold;
+    font-size: 3rem;
+    max-width: 65%;
+    color: #fff;
+}
+
+.slogan1 {
+    padding: 100px 0px 0px 100px;
+    font-size: 1.5rem;
+    max-width: 20px;
+    color: #fff;
+}
+
+.bouton {
+    padding: 50px 0px 0px 100px;
+    display: flex;
+}
+
+.bouton button {
+    margin-left: 20px;
+    padding: 10px;
+}

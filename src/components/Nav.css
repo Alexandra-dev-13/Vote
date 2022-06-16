@@ -1,0 +1,12 @@
+.navConnect{
+    display:flex;
+    justify-content:space-between;
+    background-color: #1e3799;
+    color: #fff;
+    margin: 0px;
+    padding: 0px;
+    max-width:100%;
+}
+.navConnect p{
+    padding: 10px;
+}
